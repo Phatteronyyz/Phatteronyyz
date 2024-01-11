@@ -1,5 +1,4 @@
 <h1 align="center">I'm Phatta</h1>
-<h2 align="center">Sophomore robotic and  automation system engineer</h2>
 <h3 align="center">The Sadurn Planet 🪐</h3>
 
 
